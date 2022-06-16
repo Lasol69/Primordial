@@ -1,0 +1,26 @@
+﻿  CCheat.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\CCheat.cpp(1150,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  dllmain.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\dllmain.cpp(21,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  NetManager.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\Helpers\NetManager.cpp(92,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Utils.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\Helpers\Utils.cpp(70,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Hooks.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\Hooks.cpp(68,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Install.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\Install.cpp(50,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  buffer.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\MinHook\buffer.cpp(313,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  hde32.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\MinHook\hde\hde32.cpp(341,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  hde64.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\MinHook\hde\hde64.cpp(350,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  hook.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\MinHook\hook.cpp(894,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  trampoline.cpp
+C:\Users\karel\OneDrive\Desktop\primordial\MinHook\trampoline.cpp(43,1): warning C4005: 'HDE_DISASM': macro redefinition
+C:\Users\karel\OneDrive\Desktop\primordial\MinHook\trampoline.cpp(39): message : see previous definition of 'HDE_DISASM'
+C:\Users\karel\OneDrive\Desktop\primordial\MinHook\trampoline.cpp(53,1): warning C4005: 'TRAMPOLINE_MAX_SIZE': macro redefinition
+C:\Users\karel\OneDrive\Desktop\primordial\MinHook\trampoline.cpp(51): message : see previous definition of 'TRAMPOLINE_MAX_SIZE'
+C:\Users\karel\OneDrive\Desktop\primordial\MinHook\trampoline.cpp(317,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
